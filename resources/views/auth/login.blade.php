@@ -10,6 +10,7 @@
 
 <body>
     <p>Login page</p>
+    <p>Login Page 2</p>
 </body>
 
 </html>
